@@ -2,9 +2,9 @@ import psutil
 import time
 import os
 import datetime
-import math  # Added for math.isnan
+import math  
 
-# Attempt to import pythonnet and LibreHardwareMonitorLib
+
 try:
     import clr
 
